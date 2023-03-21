@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T18:28:48.052Z" agent="5.0 (Macintosh)" etag="1ZB8W33s0mFhsExOntY0" version="21.0.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-21T22:38:56.785Z" agent="5.0 (Macintosh)" etag="MfGdylHjxxkZBA_QlRS4" version="21.0.10" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1306" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -213,18 +213,18 @@
           <mxGeometry x="290" y="541" width="160" height="44" as="geometry" />
         </mxCell>
         <mxCell id="Wx7QI4uOV9k70bDQj5Dh-17" value="Land" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=41;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="290" width="160" height="396" as="geometry">
+          <mxGeometry x="40" y="290" width="150" height="461" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Wx7QI4uOV9k70bDQj5Dh-18" value="naam&#xa;aanvaller (y/n)&#xa;soldaten&#xa;aantal _dobbelstenen&#xa;lijst_worpen&#xa;&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Wx7QI4uOV9k70bDQj5Dh-17">
-          <mxGeometry y="41" width="160" height="44" as="geometry" />
+          <mxGeometry y="41" width="150" height="109" as="geometry" />
         </mxCell>
         <mxCell id="Wx7QI4uOV9k70bDQj5Dh-19" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="Wx7QI4uOV9k70bDQj5Dh-17">
-          <mxGeometry y="85" width="160" height="275" as="geometry" />
+          <mxGeometry y="150" width="150" height="275" as="geometry" />
         </mxCell>
-        <mxCell id="Wx7QI4uOV9k70bDQj5Dh-20" value="aantal_dobbels_aanvaller&#xa;val_aan&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Wx7QI4uOV9k70bDQj5Dh-17">
-          <mxGeometry y="360" width="160" height="36" as="geometry" />
+        <mxCell id="Wx7QI4uOV9k70bDQj5Dh-20" value="aantal_dobbels&#xa;val_aan&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Wx7QI4uOV9k70bDQj5Dh-17">
+          <mxGeometry y="425" width="150" height="36" as="geometry" />
         </mxCell>
         <mxCell id="Wx7QI4uOV9k70bDQj5Dh-21" value="Gevecht" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=41;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="290" width="160" height="157" as="geometry">
